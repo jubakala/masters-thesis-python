@@ -2,6 +2,7 @@ This is extremely simplified Python version of the Java code of my Master's thes
 
 The application tries to predict (NHL) hockey games outcomes (home win, draw, away win) using Poisson distribution of scored goals by both teams in three past games. User can choose what season's games are used in simulation. After the simulation application shows the results of the simulation.
 
+Quite extenive set of tests is also included.
 
 
 Python packages scipy.stats and pandas need to be installed, in order to run the code.
