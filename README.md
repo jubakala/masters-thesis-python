@@ -11,3 +11,6 @@ Application was created with Python 3.7 in Mac OSX environment.
 
 To run the code input:
 python app.py
+
+To run the tests:
+python -m unittest test_functions.py
